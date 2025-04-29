@@ -1,1 +1,3 @@
-Hola, como estas 
+Hola, como estas
+
+Bien empezando git
